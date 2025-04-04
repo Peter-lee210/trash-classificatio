@@ -1,0 +1,7 @@
+ 0: 'glass',
+ 1: 'cardboard',
+ 2: 'metal',
+ 3: 'paper',
+ 4: 'trash',
+ 5: 'plastic',
+
